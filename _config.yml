@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: 出走的决心
 
 # Your name to show in the footer
-author: Some Person
+author: 曾欢
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://vukong.net"
 
 ################
 # --- Logo --- #
@@ -50,7 +50,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "zenghuan_tb@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: daattali
