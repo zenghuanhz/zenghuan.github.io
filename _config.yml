@@ -11,16 +11,17 @@
 
 # Name of website
 title: 出走的决心
+description: "记录我的工作与生活"
 
 # Your name to show in the footer
-author: 曾欢
+author: Hunter
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "我是谁"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -128,7 +129,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "拼多多开店,阿里巴巴,三娃奶爸,跑步"
 
 ######################################
 # --- Colours / background image --- #
