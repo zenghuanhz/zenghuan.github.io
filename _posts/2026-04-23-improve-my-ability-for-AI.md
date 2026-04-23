@@ -1,3 +1,11 @@
+---
+layout: post
+title: "提升训练agent能力"
+subtitle: "如何适应AI-Native组织要求，需要找到自己的竞争力"
+date: 2026-04-23
+categories: [AI,设计]
+tags: [AI, Agent,AI-native]
+---
 #每天一小时
 提升自己训练优秀AI agent的能力，先尝试按照以下方法
 将零散、细碎的判断标准转化为 AI 的“长期记忆”，本质上是建立一套**从“个人直觉”到“组织资产”的工程化循环**。
