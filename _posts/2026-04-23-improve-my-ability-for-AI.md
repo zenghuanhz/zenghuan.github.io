@@ -2,7 +2,7 @@
 layout: post
 title: "提升训练agent能力"
 subtitle: "如何适应AI-Native组织要求，需要找到自己的竞争力"
-date: 2026-04-23
+date: 2026-04-23 10:00:00 +0800
 categories: [AI,设计]
 tags: [AI, Agent,AI-native]
 ---
