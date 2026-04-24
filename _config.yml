@@ -21,7 +21,7 @@ author: Hunter
 ###############################################
 
 navbar-links:
-  About Me: "我是谁"
+  About Me: "aboutme"
   Tags: "tags"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
